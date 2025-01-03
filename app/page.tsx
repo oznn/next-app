@@ -1,5 +1,7 @@
+import { ThreeDCardDemo } from './Card';
+
 export default function Home() {
   return (
-    <h1 className="underline">AAA</h1>
+    <ThreeDCardDemo />
   );
 }
